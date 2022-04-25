@@ -1,0 +1,10 @@
+m2 = int(input('marks 2: '))
+m3 = int(input('marks 3: '))
+m1 = int(input('marks 1: '))
+m4 = int(input('marks 4: '))
+m5 = int(input('marks 5: '))
+m6 = int(input('marks 6: '))
+marksList = [m1, m2, m3, m4, m5, m6]
+print(marksList)
+marksList.sort()
+print(marksList)

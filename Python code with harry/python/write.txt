@@ -1,0 +1,6 @@
+This is a text, I want to write in file
+second line: This is a text, I want to write in file
+This is a text, I want to write in file
+second line: This is a text, I want to write in file
+This is a text, I want to write in file
+second line: This is a text, I want to write in file
